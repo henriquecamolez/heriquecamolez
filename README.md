@@ -1,48 +1,16 @@
-# Olá, eu sou o Camolez 👋  
-## Desenvolvedor Java Backend 🚀
-
-Bem-vindo ao meu GitHub! Sou apaixonado por Java e desenvolvimento backend, focado em construir APIs escaláveis, seguras e otimizadas.
-
-## Sobre Mim
-
-- 💻 Experiência em Java, Spring Boot, Hibernate, REST APIs  
-- 🔧 Adoro desafios complexos e otimizar sistemas  
-- 🎯 Foco em performance, segurança e escalabilidade  
-- 📚 Sempre aprendendo e evoluindo minhas skills  
- 
-
-## Estatísticas de Código & Progresso
-
-<!-- Badges interativos de estatísticas do GitHub -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquecamolez&show_icons=true&theme=radical" alt="Henrique's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecamolez&theme=radical" alt="Henrique's GitHub streak" />
-</p>
-
-## Tecnologias e Ferramentas
-
-<div style="display: flex; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-</div>
-
-## Projetos em Destaque
-
-- **StockAlert** - Sitema de gestão de percas
+# 💫 About Me:
+💻 Experiência em Java, Spring Boot, Hibernate, REST APIs  <br>- 🔧 Adoro desafios complexos e otimizar sistemas  <br>- 🎯 Foco em performance, segurança e escalabilidade  <br>- 📚 Sempre aprendendo e evoluindo minhas skills
 
 
-## Vamos nos conectar?
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=henriquecamolez&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=henriquecamolez&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecamolez&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- LinkedIn: [[Seu LinkedIn](https://linkedin.com/in/henriquecamolez](https://www.linkedin.com/in/wagner-henrique-camolez-881312160/)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=henriquecamolez&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-- Email: wagnerhenriquecamolez@gmail.com 
 
-### Curtiu meu perfil? 🥳  
-Deixe uma estrela nos meus projetos e me siga para acompanhar novidades!  
+
